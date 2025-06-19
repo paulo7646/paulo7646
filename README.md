@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/offer.jpg" />
+<img align="right" alt="jpg" width="250px" src="https://github.com/paulo7646/paulo7646/blob/main/SRC/21004063.jpg" />
 
 <br />
 - Sou um programador apaixonado por tecnologia.
