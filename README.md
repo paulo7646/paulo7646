@@ -1,7 +1,7 @@
 
 
 <summary><h2>🙋‍♂️ About-me</h2></summary>
-<img align="right" alt="jpg" width="300px" src="https://github.com/paulo7646/paulo7646/blob/main/SRC/21004063.png" />
+<img align="right" alt="jpg" width="300px" src="https://github.com/paulo7646/paulo7646/blob/main/SRC/computer-illustration.png" />
 - Sou um programador apaixonado por tecnologia.
   <br />
 - Gosto de explorar diferentes softwares úteis e criar blogs com um visual bonito** e funcional.
